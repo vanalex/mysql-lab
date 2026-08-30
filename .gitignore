@@ -2,3 +2,6 @@
 .venv
 __pycache__/
 people.sql
+CTE/data/*.csv
+CTE/data/*.zip
+CTE/data/__MACOSX/
